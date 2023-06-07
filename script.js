@@ -61,6 +61,7 @@ document.write(resultado);
 return resultado;
 }
 sumar()
+  
 //OBJETOS
 function Car(make, model, year, owner) {
   this.make = "Ford";
